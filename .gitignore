@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+.ssh/
+
+# OS/Editor
+.DS_Store
+*.swp
+.vscode/
+EOF
